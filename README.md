@@ -1,4 +1,7 @@
 # Сервис персональных рекомендаций постов для пользователей социальной сети
+Авторство: ООО «Карпов Курсы»
+
+Официальный сайт: https://karpov.courses
 
 ## Стек:
 
@@ -7,6 +10,7 @@
   <img src="https://img.shields.io/badge/pandas-white?logo=pandas&logoColor=blue&style=for-the-badge" title="Pandas" alt="Pandas" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/SQL-white?logo=SQL&logoColor=black&style=for-the-badge" title="SQL" alt="SQL" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/FastAPI-white?logo=FastAPI&logoColor=black&style=for-the-badge" title="FastAPI" alt="FastAPI" height="40"/>&nbsp;
+  <img src="https://img.shields.io/badge/PyTorch-white?logo=PyTorch&logoColor=black&style=for-the-badge" title="PyTorch" alt="PyTorch" height="40"/>&nbsp;
   <img src="https://img.shields.io/badge/Machine_learning-white?logo=Machine_learning&logoColor=black&style=for-the-badge" title="Machine_learning" alt="Machine_learning" height="40"/>&nbsp;
 </div>
 
